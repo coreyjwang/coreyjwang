@@ -1,1 +1,8 @@
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)
+'''
+
+        ____
+   _||__|  |  ______   ______   ______
+  (        | |      | |      | |      |
+  /-()---() ~ ()--() ~ ()--() ~ ()--()
+
+'''
