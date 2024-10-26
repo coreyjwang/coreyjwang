@@ -6,3 +6,5 @@
                 `~-.__        ___..----..                  )
                       `---~~\___________/------------`````
                       =  ===(_________D
+
+![pic](https://github.com/coreyjwang/coreyjwang/blob/main/pic.jpg?raw=true)
